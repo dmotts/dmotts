@@ -9,6 +9,6 @@
      <li>- 🌱 I’m currently learning <strong>Machine Learning</strong></li>
      <li>- 📫 How to reach me:  [daley.mottley@hotmail.com]</li>
      <li>- 🔗 Visit my website ▻  <a href="https://dmotts.github.io/portfolio">daleymottley.com</a></li>
-     <li>- 🧑‍💻 Join an open source project <a href="https://github.com/stars/dmotts/lists/open-source-projects">here</a> and show off your coding skills!</li>
+    <!-- <li>- 🧑‍💻 Join an open source project <a href="https://github.com/stars/dmotts/lists/open-source-projects">here</a> and show off your coding skills!</li> -->
    </ul>
   </div>
